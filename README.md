@@ -16,7 +16,7 @@ Run it:
 Bash
 ./server-stats.sh
 ~~~
-## 1. Server Performance Stats
+## 1. [Server Performance Stats](https://roadmap.sh/projects/server-stats)
 This script provides a high-level overview of system resource utilization with clean, formatted output suitable for terminal viewing.
 ### Features
 The script provides a dashboard view of:
